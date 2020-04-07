@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Arslex/Lost/master/full_brightness.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Arslex/Lost/master/house.txt"))();
