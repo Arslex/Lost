@@ -1,0 +1,27 @@
+if game.Players.LocalPlayer.PlayerGui:FindFirstChild("Fuck") then
+    game.Players.LocalPlayer.PlayerGui["Fuck"]:remove()
+end
+if game.Players.LocalPlayer.PlayerGui:FindFirstChild("Fuck") then
+    game.Players.LocalPlayer.PlayerGui["Fuck"]:remove()
+end
+if game.Players.LocalPlayer.PlayerGui:FindFirstChild("You") then
+    game.Players.LocalPlayer.PlayerGui["You"]:remove()
+end
+if game.Players.LocalPlayer.PlayerGui:FindFirstChild("You") then
+    game.Players.LocalPlayer.PlayerGui["You"]:remove()
+end
+if game.Players.LocalPlayer.PlayerGui:FindFirstChild("Auto") then
+    game.Players.LocalPlayer.PlayerGui["Auto"]:remove()
+end
+if game.Players.LocalPlayer.PlayerGui:FindFirstChild("Auto") then
+    game.Players.LocalPlayer.PlayerGui["Auto"]:remove()
+end
+if game.Players.LocalPlayer.PlayerGui:FindFirstChild("How2use") then
+    game.Players.LocalPlayer.PlayerGui["How2use"]:remove()
+end
+if game.Players.LocalPlayer.PlayerGui:FindFirstChild("How2use") then
+    game.Players.LocalPlayer.PlayerGui["How2use"]:remove()
+end
+
+wait(0.1)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Arslex/Lost/master/drive.txt'),true))()
